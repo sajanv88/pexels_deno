@@ -1,5 +1,5 @@
 # pexels_deno
-A wrapper for accessing pexels api service through Deno [Pexels API](https://www.pexels.com/api/). Please refer to the API docs to understand the inputs and expected results.
+A simple Deno library for accessing pexels api service. [Pexels API](https://www.pexels.com/api/). Please refer to the API docs to understand the inputs and expected results.
 
 ### Supported API methods are.
 * Photos
@@ -96,7 +96,8 @@ PexelsAPIInstance.getPexelsApiVerison();
 
 ### Development
 git clone [pexels_deno](git@github.com:sajanv88/pexels_deno.git)
-`deno run --allow-net src/mod.ts`
+
+* `deno run --allow-net src/mod.ts`
 
 ### Acknowledgements
 Thanks, [Pexels](http://pexels.com) for creating a great platform for great images.
