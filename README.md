@@ -12,7 +12,7 @@ A simple Deno library for accessing pexels api service. [Pexels API](https://www
 ### Usage
 
 ```js
-import { Pexels } from "https://deno.land/pexels_deno@1.0.0/mod.ts";
+import { Pexels } from "https://deno.land/x/pexels_deno/mod.ts";
 
 // Create Client instance by passing in API key 
 
